@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tertib Dokumen Sipil</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav">NavActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="syara_akta">Syarat Pembuatan Akta</string>
+    <string name="akta_syarat1">akta_syarat1</string>
+    <string name="ktp">e-KTP</string>
+    <string name="nav_pindah">Kepindahan</string>
+    <string name="nav_kk">Kartu Keluarga</string>
+    <string name="akta_lahir">Akta Kelahiran</string>
+    <string name="akta_cerai">Akta Perceraian</string>
+    <string name="akta_mati">Akta Kematian</string>
+    <string name="tv_kk">Kartu Keluarga (KK) adalah dokumen penting untuk mengurus keperluan angota keluarga.</string>
+    <string name="kk_syarat1">Pengantar RT</string>
+    <string name="kk_syarat2">Mengisi Formulir KK</string>
+    <string name="kk_syarat3">Foto Kopi Buku Nikah</string>
+    <string name="ktp_syarat1">Foto Kopi Akta Kelahiran</string>
+    <string name="ktp_syarat2">Foto Kopi Kartu Keluarga</string>
+    <string name="ktp_syarat3">ktp_syarat3</string>
+    <string name="tv_ktp">Setiap orang yang sudah berusia 17 tahun harus memiliki kartu identitas. Kartu Tanda Penduduk
+        (KTP) adalah kartu yang harus dimiliki sehingga pengurusan dokumen lainnya menjadi lebih mudah.
+    </string>
+    <string name="about">About</string>
+    <string name="nav_kia">Kartu Identitas Anak</string>
+    <string name="tv_pindah">tv_pindah</string>
+    <string name="pindah_syarat1">pindah_syarat1</string>
+    <string name="pindah_syarat2">pindah_syarat2</string>
+    <string name="pindah_syarat3">pindah_syarat3</string>
+    <string name="tv_kia">tv_kia</string>
+    <string name="kia_syarat1">kia_syarat1</string>
+    <string name="kia_syarat2">kia_syarat2</string>
+    <string name="kia_syarat3">kia_syarat3</string>
+    <string name="tv_akta_mati">tv_akta_mati</string>
+    <string name="akta_mati_syarat1">akta_mati_syarat1</string>
+    <string name="akta_mati_syarat2">akta_mati_syarat2</string>
+    <string name="akta_mati_syarat3">akta_mati_syarat3</string>
+    <string name="tv_akta_lahir">tv_akta_lahir</string>
+    <string name="akta_lahir_syarat1">akta_lahir_syarat1</string>
+    <string name="akta_lahir_syarat2">akta_lahir_syarat2</string>
+    <string name="akta_lahir_syarat3">akta_lahir_syarat3</string>
+    <string name="tv_akta_cerai">tv_akta_cerai</string>
+    <string name="akta_cerai_syarat2">akta_cerai_syarat2</string>
+    <string name="akta_cerai_syarat1">akta_cerai_syarat1</string>
+    <string name="akta_cerai_syarat3">akta_cerai_syarat3</string>
+</resources>

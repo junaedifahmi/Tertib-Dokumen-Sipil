@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".FragmentKIA">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:gravity="top">
+        <TextView
+                android:text="@string/tv_kia"
+                android:layout_width="match_parent"
+                android:layout_height="102dp" android:id="@+id/tv_kia"/>
+        <ProgressBar
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/kia_progress"/>
+        <CheckBox
+                android:text="@string/kia_syarat1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/kia_syarat1"/>
+        <CheckBox
+                android:text="@string/kia_syarat2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/kia_syarat2"/>
+        <CheckBox
+                android:text="@string/kia_syarat3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/kia_syarat3"/>
+    </LinearLayout>
+</FrameLayout>

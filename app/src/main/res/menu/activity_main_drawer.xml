@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_ktp"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="@string/ktp"/>
+        <item android:title="@string/nav_kia" android:id="@+id/nav_kia"
+              android:icon="@drawable/ic_child_care_black_24dp"/>
+        <item
+                android:id="@+id/nav_kk"
+                android:icon="@drawable/ic_people_black_24dp"
+                android:title="@string/nav_kk"/>
+        <item
+                android:id="@+id/nav_akta_lahir"
+                android:icon="@drawable/ic_pregnant_woman_black_24dp"
+                android:title="@string/akta_lahir"/>
+        <item
+                android:id="@+id/nav_akta_mati"
+                android:icon="@drawable/ic_local_hotel_black_24dp"
+                android:title="@string/akta_mati"/>
+        <item android:title="@string/akta_cerai" android:id="@+id/nav_akta_cerai"
+              android:icon="@drawable/ic_wc_black_24dp"/>
+        <item android:title="@string/nav_pindah" android:id="@+id/nav_pindah"
+              android:icon="@drawable/ic_flight_takeoff_black_24dp"/>
+    </group>
+
+</menu>
